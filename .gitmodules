@@ -19,3 +19,6 @@
 [submodule "TwoActivities"]
 	path = TwoActivities
 	url = https://github.com/sabkayar/TwoActivities.git
+[submodule "ScoreKeeper"]
+	path = ScoreKeeper
+	url = https://github.com/sabkayar/ScoreKeeper.git
