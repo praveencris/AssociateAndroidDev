@@ -10,3 +10,9 @@
 [submodule "sample-broadcast-receiver"]
 	path = sample-broadcast-receiver
 	url = https://github.com/sabkayar/sample-broadcast-receiver.git
+[submodule "HelloToast"]
+        path= HelloToast
+	url = https://github.com/sabkayar/HelloToast.git
+[submodule "SimpleCalc"]
+        path= SimpleCalc
+	url = https://github.com/sabkayar/SimpleCalc.git
