@@ -16,3 +16,6 @@
 [submodule "SimpleCalc"]
         path= SimpleCalc
 	url = https://github.com/sabkayar/SimpleCalc.git
+[submodule "TwoActivities"]
+	path = TwoActivities
+	url = https://github.com/sabkayar/TwoActivities.git
