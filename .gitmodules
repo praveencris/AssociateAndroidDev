@@ -1,15 +1,9 @@
 [submodule "Toast-SnackBar-LocalizeApp"]
 	path = Toast-SnackBar-LocalizeApp
 	url = https://github.com/sabkayar/Toast-SnackBar-LocalizeApp.git
-[submodule "HelloToast"]
-	path = HelloToast
-	url = https://github.com/sabkayar/HelloToast.git
 [submodule "SampleJobSchedular"]
 	path = SampleJobSchedular
 	url = https://github.com/sabkayar/JobSchedularSample.git
-[submodule "SimpleCalc"]
-	path = SimpleCalc
-	url = https://github.com/sabkayar/SimpleCalc.git
 [submodule "android-workmanager-start_java"]
 	path = android-workmanager-start_java
 	url = https://github.com/sabkayar/android-workmanager-java-sample.git
