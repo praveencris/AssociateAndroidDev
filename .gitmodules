@@ -25,3 +25,6 @@
 [submodule "RecyclerView"]
 	path = RecyclerView
 	url = https://github.com/sabkayar/RecyclerView.git
+[submodule "DialogAndPickers"]
+	path = DialogAndPickers
+	url = https://github.com/sabkayar/DialogAndPickers.git
