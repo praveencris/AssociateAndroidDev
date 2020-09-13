@@ -22,3 +22,6 @@
 [submodule "ScoreKeeper"]
 	path = ScoreKeeper
 	url = https://github.com/sabkayar/ScoreKeeper.git
+[submodule "RecyclerView"]
+	path = RecyclerView
+	url = https://github.com/sabkayar/RecyclerView.git
