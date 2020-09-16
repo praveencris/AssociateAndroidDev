@@ -31,3 +31,6 @@
 [submodule "TabExperiment"]
 	path = TabExperiment
 	url = https://github.com/sabkayar/TabExperiment.git
+[submodule "NavDrawerExperiment"]
+	path = NavDrawerExperiment
+	url = https://github.com/sabkayar/NavDrawerExperiment.git
