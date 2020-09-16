@@ -28,3 +28,6 @@
 [submodule "DialogAndPickers"]
 	path = DialogAndPickers
 	url = https://github.com/sabkayar/DialogAndPickers.git
+[submodule "TabExperiment"]
+	path = TabExperiment
+	url = https://github.com/sabkayar/TabExperiment.git
