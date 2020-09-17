@@ -34,3 +34,9 @@
 [submodule "NavDrawerExperiment"]
 	path = NavDrawerExperiment
 	url = https://github.com/sabkayar/NavDrawerExperiment.git
+[submodule "AndroidTrivia"]
+	path = AndroidTrivia
+	url = https://github.com/sabkayar/FragmentLifecycleWithLogs.git
+[submodule "DessertClicker-Starter"]
+	path = DessertClicker-Starter
+	url = https://github.com/sabkayar/ActivityLifeCycleWithLogs.git
