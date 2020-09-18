@@ -41,6 +41,7 @@
 	path = DessertClicker-Starter
 	url = https://github.com/sabkayar/ActivityLifeCycleWithLogs.git
 
-[submodule "shrine"]
-        path = /Users/praveen/Documents/ANDROIDWORK/Google-Associate-Android-Developer/material-components-android-codelabs/java/shrine
-        url = https://github.com/sabkayar/MaterialDesignComponentBasics.git
+
+[submodule "MaterialDesignComponentBasics"]
+	path = MaterialDesignComponentBasics
+	url = https://github.com/sabkayar/MaterialDesignComponentBasics.git
