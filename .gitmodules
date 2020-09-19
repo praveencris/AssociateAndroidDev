@@ -45,3 +45,6 @@
 [submodule "MaterialDesignComponentBasics"]
 	path = MaterialDesignComponentBasics
 	url = https://github.com/sabkayar/MaterialDesignComponentBasics.git
+[submodule "ColorMyViews"]
+	path = ColorMyViews
+	url = https://github.com/sabkayar/ColorMyViews.git
